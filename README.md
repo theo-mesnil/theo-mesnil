@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**theo-mesnil/theo-mesnil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi! I'm Théo ☺️
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a front-end developer in Paris who likes interfaces!
+
+--- 
+
+React / Styled components / React Native  ❤️<br>
+Currently at Welcome to the jungle, and previously at Leboncoin and Canal+. 🌟<br>
+Create with my fellow https://www.welcome-ui.com 🎨
+
+--- 
+
+![54f390143b4326b5](https://user-images.githubusercontent.com/50322149/149029313-5d77e061-d70a-4db7-9c62-908b6aa1fad6.png) 
