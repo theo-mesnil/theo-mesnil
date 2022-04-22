@@ -1,7 +1,7 @@
 
 - ☺️ Hi! I'm Théo
 - 🦦 I'm a `señior front-end developer` in `Paris` who `likes interfaces 🎨`
-- 💘 I love: `React`, `Styled components`, `React Native`, `Figma & Sketch`
+- 💘 I love: `React`, `Styled components`, `React Native`, `Figma`
 - 🌞 I created with my fellows [Welcome UI](https://www.welcome-ui.com), a customizable and open source design system
 - 💻 I'm currently at `Welcome to the jungle`, and previously at Leboncoin and Canal+
 
